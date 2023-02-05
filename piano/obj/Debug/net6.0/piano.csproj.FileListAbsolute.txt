@@ -1,0 +1,15 @@
+C:\Users\gramo\source\repos\piano\piano\bin\Debug\net6.0\piano.exe
+C:\Users\gramo\source\repos\piano\piano\bin\Debug\net6.0\piano.deps.json
+C:\Users\gramo\source\repos\piano\piano\bin\Debug\net6.0\piano.runtimeconfig.json
+C:\Users\gramo\source\repos\piano\piano\bin\Debug\net6.0\piano.dll
+C:\Users\gramo\source\repos\piano\piano\bin\Debug\net6.0\piano.pdb
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.csproj.AssemblyReference.cache
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.AssemblyInfoInputs.cache
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.AssemblyInfo.cs
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.csproj.CoreCompileInputs.cache
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.dll
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\refint\piano.dll
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.pdb
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\piano.genruntimeconfig.cache
+C:\Users\gramo\source\repos\piano\piano\obj\Debug\net6.0\ref\piano.dll
